@@ -1,0 +1,10 @@
+Cardiology:30
+Neurology:10
+Orthopedics:30
+Dermatology:10
+Ophthalmology:10
+Urology:15
+Otorhinolaryngology:25
+Radiology:10
+Pediatrics:15
+Psychiatry:10

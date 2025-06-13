@@ -1,0 +1,19 @@
+I did this project for oop ,efficient class construction , data structures, data management and memory leaks for c++
+oop:                                 readfile
+                              /         |        \
+                           /            |            \
+                      savepatient     pharmacy       hazardunit
+                    /      |      \
+              doctorlist-Patient-doctorprocess
+                    |                   |
+                doctor                beds
+readfiile is main process central for oop
+pharmacy: simple data class for figure out real hospital system
+hazard unit: control for process
+save patient is main process central for hospital application
+doctor_list holds doctor objects
+Patient holds patients save knowledge
+doctorprocess contains Keeps the projects done by the doctors
+beds hold necessary data for doctorprocess(simple representation departmants capacity)
+doctor keeps a doctor knowledge (list of patient- plan for next 365 days appointments etc.)
+I thought add something for realistic program(time etc.) after I abonded these details because these are excluded my main purposes.

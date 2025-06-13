@@ -1,0 +1,12 @@
+takeappointment JohnBrown headache JaneSmith 56 0+ Neurology 12:10:2024: 0
+takeappointment Brown headache JohnDoe 56 0+ Cardiology 2:1:2024: 0
+takeappointment John headache JohnDoe 56 0+ Cardiology 1:1:2024: 0
+laydown JohnBrown
+laydown John
+laydown Brown
+takeappointment JohnBrown headache JaneSmith 56 0+ Neurology 12:10:2024: 3
+settraitment Parkinson JohnBrown
+setdiagnose Parkinson JohnBrown
+settraitment Parkinson JohnBrown
+nextday
+
